@@ -8,3 +8,5 @@
 - [x] Subir los cambios al REPO propio en Github (PUSH)
 - [x] Subir los cambios al REPO Original (PULL REQUEST)
 - [x] Cambio el README desde el REPO ORIGINAL para despues Sincronizar el Forkeado
+- [x] Hago un primer cambio para commitear y crear el PULL REQUEST
+- [ ] Hacer un segundo cambio para completar el PR
