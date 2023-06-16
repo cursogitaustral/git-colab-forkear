@@ -1,9 +1,9 @@
 # Colaborando con Repos Forkeados
 
-- [ ] Crear Repo Público en Github
-- [ ] Forkear el Repo a su propia cuenta
-- [ ] Clonar el Repo Forkeado
+- [x] Crear Repo Público en Github
+- [x] Forkear el Repo a su propia cuenta
+- [x] Clonar el Repo Forkeado
+- [x] Hacer cambios en el README en local
 - [ ] Crear una rama de desarrollo local
-- [ ] Hacer cambios en el README en local
-- [ ] Subir los cambios al REPO propio en Github (PUSH)
+- [x] Subir los cambios al REPO propio en Github (PUSH)
 - [ ] Subir los cambios al REPO Original (PULL REQUEST)
